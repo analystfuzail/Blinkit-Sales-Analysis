@@ -53,6 +53,6 @@ Mohd Fuzail
 
 Aspiring Data Analyst | SQL | Power BI | Excel | Python
 
-LinkedIn Profile
- | Portfolio Website
- | GitHub
+[LinkedIn Profile](https://www.linkedin.com/in/mohdfuzail3233/)
+ | [Portfolio Website](https://erfuzail01.wixsite.com/my-site-1)
+ | [GitHub](https://github.com/mohdfuzail886)
