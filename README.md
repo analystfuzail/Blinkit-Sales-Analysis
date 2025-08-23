@@ -1,4 +1,5 @@
 BlinkIT Sales Data Analysis
+
 📌 Project Overview
 
 This project analyzes sales data from BlinkIT (online grocery store) using SQL and documents key queries, business insights, and visualizations. The goal is to clean, query, and analyze sales data to uncover trends, performance metrics, and decision-making insights.
