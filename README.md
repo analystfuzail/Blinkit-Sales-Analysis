@@ -4,32 +4,6 @@ BlinkIT Sales Data Analysis
 
 This project analyzes sales data from BlinkIT (online grocery store) using SQL and documents key queries, business insights, and visualizations. The goal is to clean, query, and analyze sales data to uncover trends, performance metrics, and decision-making insights.
 
-📂 Sales-Data-Analysis/
-│── 📄 README.md                → Project overview (Problem, Approach, Insights, Tools used)
-│── 📂 data/                    
-│     ├── raw/                  → Original CSV/SQL dump (unmodified data)
-│     ├── processed/            → Cleaned data (after transformations)
-│
-│── 📂 sql/
-│     ├── queries.sql           → All SQL queries used for analysis
-│     ├── schema.sql            → Table creation + sample inserts
-│
-│── 📂 notebooks/
-│     ├── analysis.ipynb        → Python (EDA, visualizations, insights)
-│
-│── 📂 dashboards/
-│     ├── PowerBI_Dashboard.pbix → Power BI dashboard file
-│     ├── screenshots/          
-│         ├── dashboard1.png    → Key dashboard screenshots
-│         ├── dashboard2.png
-│
-│── 📂 reports/
-│     ├── summary_report.pdf    → Final report with findings & recommendations
-│
-│── 📂 docs/
-│     ├── project_documentation.md → Step-by-step documentation
-
-
 📂 Repository Contents
 
 BlinkIT Grocery Data.csv → Raw sales dataset for analysis
