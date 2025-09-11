@@ -1,4 +1,4 @@
-# 🚚BlinkiT Sales Data Analysis
+# 🚚Blinkit Sales Data Analysis
 
 ## 📌 Project Overview
 
@@ -6,7 +6,7 @@ This project analyzes sales data from BlinkIT (online grocery store) using SQL a
 
 ## 📂 Repository Contents
 
-BlinkiT Grocery Data.csv → Raw sales dataset for analysis
+Blinkit Grocery Data.csv → Raw sales dataset for analysis
 
 Query Doc (1).docx → SQL queries with explanations
 
