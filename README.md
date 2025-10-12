@@ -1,4 +1,4 @@
-# 🚚Blinkit Sales Data Analysis
+# 🗃️Blinkit Sales Data Analysis
 
 ## 📌 Project Overview
 
@@ -47,6 +47,18 @@ Improving inventory management
 Enhancing sales forecasting
 
 Optimizing customer targeting
+
+<img width="700" height="400" alt="Blinkit Analysis Dashboard (1)" src="https://github.com/user-attachments/assets/4489a103-efee-4bb3-a601-5ecc379b7dae" />
+
+## 🔮 Future Enhancements
+
+✅Real-Time Data Integration: Connect Power BI to live Blinkit sales APIs or databases for automatic data refresh and real-time tracking of KPIs.
+
+✅Customer Behavior Analysis: Perform RFM (Recency, Frequency, Monetary) analysis to segment customers based on purchase behavior and personalize offers.
+
+✅Customer Feedback Integration: Incorporate sentiment analysis of reviews or ratings to understand customer satisfaction trends beyond numerical averages.
+
+✅Mobile Dashboard Optimization: Create a mobile-friendly version of the Power BI dashboard for managers to access insights on the go.
 
 ## 👨‍💻 Author
 
