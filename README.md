@@ -48,7 +48,19 @@ Enhancing sales forecasting
 
 Optimizing customer targeting
 
+## ✨ Outcome
+
+💡This project demonstrates the use of Power BI and data analytics to deliver insights of sales data to uncover trends, performance metrics, and decision-making insights.
+It showcases strong skills in:
+
+✅ Data analysis and transformation
+
+✅ Business intelligence reporting
+
+✅ KPI design and visualization
+
 <img width="700" height="400" alt="Blinkit Analysis Dashboard (1)" src="https://github.com/user-attachments/assets/4489a103-efee-4bb3-a601-5ecc379b7dae" />
+
 
 ## 🔮 Future Enhancements
 
