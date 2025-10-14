@@ -6,13 +6,11 @@ This project analyzes sales data from BlinkIT (online grocery store) using SQL a
 
 ## 📂 Repository Contents
 
-Blinkit Grocery Data.csv → Raw sales dataset for analysis
+Datasets and reports → Raw sales dataset for analysis and reports of the project with SQL query explanations
 
-Query Doc (1).docx → SQL queries with explanations
+Blinkit Dashboard.png → Screenshots of visualizations
 
-Blinkit Analysis.pptx → PowerPoint presentation summarizing findings and visualizations
-
-blinkit.json → Structured JSON data used in analysis
+Readme.md → Project documentation
 
 ## 🛠️ Tools & Technologies
 
