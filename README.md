@@ -57,7 +57,8 @@ It showcases strong skills in:
 
 ✅ KPI design and visualization
 
-<img width="700" height="400" alt="Blinkit Analysis Dashboard (1)" src="https://github.com/user-attachments/assets/4489a103-efee-4bb3-a601-5ecc379b7dae" />
+<img width="1321" height="762" alt="Blinkit Analysis Dashboard" src="https://github.com/user-attachments/assets/fe2a13e1-173d-4c54-9a3c-84dfe03d6947" />
+
 
 
 ## 🔮 Future Enhancements
